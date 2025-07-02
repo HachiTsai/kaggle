@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Hachi.Tsai/%E7%B7%B4%E7%BF%92-GIT/Python/kaggle/mlruns/0/edb3daed19d14f3aa7a3c585e5033bae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb3daed19d14f3aa7a3c585e5033bae
+run_name: judicious-crow-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751381578870
+status: 1
+tags: []
+user_id: hachi

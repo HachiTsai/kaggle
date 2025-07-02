@@ -1,0 +1,5 @@
+*.ipynb text eol=lf
+*.yaml text eol=lf
+250628.ipynb
+# This file is used to ensure that Jupyter Notebook files are treated as text files with LF line endings.
+# It helps maintain consistency across different operating systems.

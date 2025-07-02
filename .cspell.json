@@ -1,0 +1,13 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Kaggle",
+    "ipynb",
+    "gitattributes",
+    "cspell",
+    "pycache",
+    "nbconvert",
+    "venv"
+  ]
+}

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.ipynb
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# 環境設定
+.env
+.venv/
+venv/
+ENV/
+
+# 其他暫存檔
+*.log
+*.tmp
+
+# Git 屬性設定
+.gitattributes
+.cspell.json
